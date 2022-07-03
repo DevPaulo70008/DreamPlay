@@ -1,0 +1,61 @@
+*{
+  margin:0px;
+  padding: 0px;
+}
+body {
+    font-size: 15pt;
+    background-image:url('bg.jpg');
+}
+
+p{
+   font-family:italic;
+   color:white;
+}
+
+
+h1{
+  font-family:bold;
+}
+
+h2{
+  font-family: bold;
+}
+
+.app{
+  width: 342px;
+  height: 90px;
+  background-color: black;
+  
+}
+
+@font-face{
+  font-family: monomarc;
+  src:url('logomc.ttf');
+}
+
+.tt{
+  font-family: monomarc;
+  color: orange;
+  margin-left: 72px;
+}
+
+.doar{
+  width: 130px;
+  height: 30px;
+  font-size: 12px;
+  border-radius: 12px;
+  border-color: #0FBF05;
+  background-color: #FFFFFF;
+  margin-left: 17px;
+  font-family: bold;
+}
+
+.by{
+  font-size: 14px;
+  font-family: bold;
+}
+
+.infofm{
+   color: white;
+   font-style: bold;
+}
